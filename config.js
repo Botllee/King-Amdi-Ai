@@ -18,7 +18,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
 global.github=process.env.GITHUB|| "https://github.com/Botllee/CR-7";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDHU4M3mFYBa7tLXz25";
 global.website=process.env.GURL || "https://youtube.com/@Gee_shopers?si=2DNImah5qx2zD37D" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/b3ae322923fca64180003.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 3,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/b3ae322923fca64180003.jpg",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
@@ -66,9 +66,9 @@ module.exports = {
   VERSION : process.env.VERSION || "V.1.2.8",
   caption : process.env.CAPTION || "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Keith",
-  packname: process.env.PACK_NAME || "👑",
-  botname : process.env.BOT_NAME  || "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
+  author : process.env.PACK_AUTHER|| "𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦 𝗧𝗘𝗖𝗛 𝗜𝗡𝗙𝗢",
+  packname: process.env.PACK_NAME || "𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦 𝗧𝗘𝗖𝗛 𝗜𝗡𝗙𝗢",
+  botname : process.env.BOT_NAME  || "King-Amdi-Ai",
   ownername:process.env.OWNER_NAME|| "It'x 𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
