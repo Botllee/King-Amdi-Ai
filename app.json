@@ -1,7 +1,7 @@
 {
   "name": "King-Amdi-Ai@1.2.8",
   "description": "KING.𝐃𝐞𝐚𝐝𝐥𝐲 𝐛𝐨𝐭 😂",
-  "logo": "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg",
+  "logo": "https://telegra.ph/file/b3ae322923fca64180003.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg"
+      "value": "https://telegra.ph/file/b3ae322923fca64180003.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
