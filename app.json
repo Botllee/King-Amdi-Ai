@@ -1,6 +1,6 @@
 {
-  "name": "𝗖𝗥-𝟳 @1.2.8",
-  "description": "𝗖𝗥-𝟳 .𝐃𝐞𝐚𝐝𝐥𝐲 𝐛𝐨𝐭 😂",
+  "name": "King-Amdi-Ai@1.2.8",
+  "description": "KING.𝐃𝐞𝐚𝐝𝐥𝐲 𝐛𝐨𝐭 😂",
   "logo": "https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝗖𝗥-𝟳 "
+      "value": "KING"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐓𝐄𝐂𝐇",
+      "value": "𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦 𝗧𝗘𝗖𝗛 𝗜𝗡𝗙𝗢",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐓𝐄𝐂𝐇",
+      "value": "𝗘𝗨𝗦𝗘𝗕𝗜𝗨𝗦 𝗧𝗘𝗖𝗛 𝗜𝗡𝗙𝗢",
       "required": false 
     }
   }, 
