@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align="center">
- 👑<b>CR-7</b>👑</b>
+ 👑<b>King Amdi Ai</b>👑</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 	   
  
@@ -11,20 +11,20 @@
 	  
 </p>
 </a>
-<h1 align="center"><b>HEY I AM CR-7</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>HEY I AM King Amdi Ai</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,; CR-7+is+an+active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
 </p>
                        
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/e3ee3790f1a568f287fd2.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/b3ae322923fca64180003.jpg" alt="01" border="0" /></a>                     
  <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=CR-7;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+EUSEBIUS" alt="Typing SVG" /></a>
   </p>
 	 
-  <a aria-label="CR-7 is free to use" href="https://youtube.com/@Gee_shopers?si=2DNImah5qx2zD37D" target="_blank">
-    <img alt="CR-7" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="King-Amdi-Ai is free to use" href="https://youtube.com/@Gee_shopers?si=2DNImah5qx2zD37D" target="_blank">
+    <img alt="King Amdi Ai" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
