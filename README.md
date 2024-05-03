@@ -52,7 +52,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 𝗦𝗖𝗔𝗡 𝗖𝗢𝗗𝗘 𝗪𝗜𝗧𝗛 𝗬𝗢𝗨𝗥 𝗡𝗨𝗠𝗕𝗘𝗥
         👇👇👇👇
 	
- ***Get `SESSION ID` by [`pairing 𝗖𝗢𝗗𝗘`](https://broc-563526046b42.herokuapp.com/pair)***
+ ***Get `SESSION ID` by [`pairing 𝗖𝗢𝗗𝗘`](https://kingamdipairer-39ce1f70a998.herokuapp.com/)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
@@ -60,7 +60,7 @@ EXAMPLE PUT IN YOUR NUMBER: 2547XXXXXXXX,THEN TAP SUBMIT AND COPY THAT CODE TO Y
 
 
     
-   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://session-cr7-ke-dacd120b5cb4.herokuapp.com/)                 
+   ***Get `SESSION ID` by [`SCANING 𝗤𝗥`](https://kingamdipairer-39ce1f70a998.herokuapp.com/)                 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
                        		 
@@ -111,7 +111,7 @@ star repo if you like this bot✨
 
 
 ##
-CR-7 
+KING-AMDI-AI 
 
 [![CR-7](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+Eusebius;hacker🥰)](https://github.com/Botllee)
 
