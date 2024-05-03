@@ -15,10 +15,10 @@ global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Kenya";
-global.github=process.env.GITHUB|| "https://github.com/Botllee/CR-7";
+global.github=process.env.GITHUB|| "https://github.com/Botllee/King-Amdi-Ai";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaDHU4M3mFYBa7tLXz25";
 global.website=process.env.GURL || "https://youtube.com/@Gee_shopers?si=2DNImah5qx2zD37D" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/b3ae322923fca64180003.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/99e71b66e7dedc755d071.mp4" ; // SET LOGO FOR IMAGE 
 
 
 
@@ -38,7 +38,7 @@ global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable W
 global.warncount = process.env.WARN_COUNT || 3,
 global.disablepm = process.env.DISABLE_PM || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG|| "false", // "true"  to see messages , "log" to open logs , "false" to hide logs messages
-global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/b3ae322923fca64180003.jpg",
+global.userImages= process.env.USER_IMAGES|| "https://telegra.ph/file/99e71b66e7dedc755d071.mp4",
 global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 'unavailable' | 'available' | 'composing' | 'recording' | 'paused'
 
 
